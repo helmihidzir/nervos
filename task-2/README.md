@@ -1,5 +1,5 @@
 1. A screenshot of the console output immediately after you have successfully deployed a smart contract
-![console output](https://github.com/helmihidzir/nervos/blob/main/task-2/console-output.png)
+![console output](https://github.com/helmihidzir/nervos/blob/main/task-2/contract-deployed.png)
 
 2. The transaction hash from the contract deployment (in text format)
 
