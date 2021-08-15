@@ -12,5 +12,5 @@
 4. A screenshot of the console output immediately after you have successfully submitted a deposit to Layer 2 using the account-cli tool.
    ![console output](https://github.com/helmihidzir/nervos/blob/main/task-4/screenshot-item-4.png)
 
-5. The SUDT ID from the console output after executing the deposit script (in text format).
+5. The SUDT ID from the console output after executing the deposit script (in text format).       
    2351
